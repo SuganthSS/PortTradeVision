@@ -1,0 +1,9 @@
+# Local env files
+.env
+.env.*
+# Node modules and common OS files
+/node_modules
+/dist
+/build
+.DS_Store
+.vscode
