@@ -114,8 +114,8 @@ npm run dev
 
 This starts both the Vite frontend dev server and Express backend concurrently.
 
-- **Frontend:** http://localhost:5173
-- **Backend API:** http://localhost:5000
+- **Frontend:** Soon to be added
+- **Backend API:** Soon to be added
 
 #### 5. Login with Demo Credentials
 ```
